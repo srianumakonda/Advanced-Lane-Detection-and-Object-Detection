@@ -1,4 +1,8 @@
-non-vehicles_smallset/
-vehicles_smallset/
+non-vehicles/
+vehicles/
 __pycache__/
 .ipynb_checkpoints/
+project.ipynb
+helper_functions.py
+lane.mp4
+
